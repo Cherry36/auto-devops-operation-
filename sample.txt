@@ -1,0 +1,5 @@
+Overview of GIT
+
+GIT: Global Interaction tool
+
+Git is an source code management tool which is used for storing all the code, important files, directories, images etc which uses distributed version control system mechanism which provides proper tracking and also benefit of storage cost optimization.
